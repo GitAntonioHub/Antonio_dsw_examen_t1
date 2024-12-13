@@ -317,12 +317,12 @@ return [
         ],
         [
             'text' => 'blog',
-            'url' => 'admin/blog',
+            'url' => 'messages',
             'can' => 'manage-blog',
         ],
         [
             'text' => 'pages',
-            'url' => 'admin/pages',
+            'url' => 'messages',
             'icon' => 'far fa-fw fa-file',
             'label' => 4,
             'label_color' => 'success',
